@@ -1,4 +1,4 @@
-# NPM Pubilish
+# NPM Publish
 
 A bash script to help automate publishing npm packages
 
